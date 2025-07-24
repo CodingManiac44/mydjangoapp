@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb0fda8c-9a08-49b7-badb-04378a2b43d3" name="Changes" comment="my first django project for rest apis" />
+    <list default="true" id="eb0fda8c-9a08-49b7-badb-04378a2b43d3" name="Changes" comment="my first django project for rest apis">
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/css/bootstrap-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/css/tooplate-barista.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/css/vegas.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/fonts/bootstrap-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/fonts/bootstrap-icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/images/barman-with-fruits.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/images/coffee-beans.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/images/happy-loving-couple-bakers-drinking-coffee-looking-notebook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/images/happy-waitress-giving-coffee-customers-while-serving-them-coffee-shop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/images/mid-section-waitress-wiping-espresso-machine-with-napkin-cafa-c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/images/reviews/senior-man-white-sweater-eyeglasses.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/images/reviews/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/images/reviews/young-woman-with-round-glasses-yellow-sweater.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/images/slides/sincere-laugh-showing-picture-smartphone-casual-meeting-with-best-friends-restaurant-terrace.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/images/team/cute-korean-barista-girl-pouring-coffee-prepare-filter-batch-brew-pour-working-cafe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/images/team/portrait-elegant-old-man-wearing-suit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/images/team/small-business-owner-drinking-coffee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/images/team/smiley-business-woman-working-cashier.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/js/click-scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/js/jquery.sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/js/vegas.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/reservation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newproject/myapp/templates/videos/pexels-mike-jones-9046237.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,21 +45,33 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/CodingManiac44/mydjangoapp.git",
-    "accountId": "7eea6627-eb43-4c51-91cb-396c4de692b9"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CodingManiac44&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CodingManiac44/mydjangoapp.git&quot;,
+    &quot;accountId&quot;: &quot;7eea6627-eb43-4c51-91cb-396c4de692b9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="30B62Q67SvkvaZJ5tl1KrhtQ6eY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,15 +80,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "rest__buddy",
+    "last_opened_file_path": "E:/django/newproject/myapp/templates"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\django\newproject\myapp\templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\django\newproject\myapp" />
     </key>
@@ -81,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753091701668</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="my first django project for rest apis">
+      <option name="closed" value="true" />
+      <created>1753094083819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753094083821</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
